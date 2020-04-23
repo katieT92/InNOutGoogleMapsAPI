@@ -1,0 +1,62 @@
+[
+	{
+		"title": "In-N-Out (Santa Rosa)",
+		"lat": 38.460600,
+		"lng": -122.725390,
+		"address": "<h4>In-N-Out</h4><p>2131 County Center Drive</p><p>Santa Rosa, CA 95403</p>"
+	},
+	{
+		"title": "In-N-Out (Rohnert Park)",
+		"lat": 38.361230,
+		"lng": -122.714250,
+		"address": "<h4>In-N-Out</h4><p>5145 Redwood Drive</p><p>Rohnert Park, CA 94928</p>"
+	},
+	{
+		"title": "In-N-Out (Petaluma)",
+		"lat": 38.234410,
+		"lng": -122.620980,
+		"address": "<h4>In-N-Out</h4><p>1010 Lakeville Highway</p><p>Petaluma, CA 94952</p>"
+	},
+  {
+		"title": "In-N-Out (Novato)",
+		"lat": 38.089500,
+		"lng": -122.554690,
+		"address": "<h4>In-N-Out</h4><p>216 Vintage Way</p><p>Novato, CA 94945</p>"
+  },
+  {
+    "title": "In-N-Out (Napa)",
+    "lat": 38.281160,
+    "lng": -122.276250,
+    "address": "<h4>In-N-Out</h4><p>820 Imola Avenue</p><p>Napa, CA 94559</p>"
+  },
+  {
+		"title": "In-N-Out (Vallejo)",
+		"lat": 38.124790,
+		"lng": -122.227660,
+		"address": "<h4>In-N-Out</h4><p>720 Admiral Callaghan Lane</p><p>Vallejo, CA 94591</p>"
+	},
+	{
+		"title": "In-N-Out (Mill Valley)",
+		"lat": 37.879650,
+		"lng": -122.516060,
+		"address": "<h4>In-N-Out</h4><p>798 Redwood Highway</p><p>Mill Valley, CA 94941</p>"
+	},
+	{
+		"title": "In-N-Out (Fairfield)",
+		"lat": 38.257500,
+		"lng": -122.064320,
+		"address": "<h4>In-N-Out</h4><p>1364 Holiday Lane</p><p>Fairfield, CA 94534</p>"
+	},
+  {
+		"title": "In-N-Out (Pleasant Hill)",
+		"lat": 37.976100,
+		"lng": -122.065670,
+		"address": "<h4>In-N-Out</h4><p>570 Contra Costa Boulevard</p><p>Pleasant Hill, CA 94523</p>"
+  },
+  {
+    "title": "In-N-Out (San Francisco)",
+    "lat": 37.807880,
+    "lng": -122.418080,
+    "address": "<h4>In-N-Out</h4><p>333 Jefferson</p><p>San Francisco, CA 94133</p>"
+  }
+]
